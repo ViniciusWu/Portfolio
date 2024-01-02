@@ -1,3 +1,4 @@
+-- was testing my vscode setup
 CREATE TABLE fodass( id SERIAL PRIMARY KEY);
 
 
